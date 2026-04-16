@@ -6,11 +6,11 @@ MODEL = "gemini-3.1-pro-preview"
 
 @st.cache_resource
 def get_client():
-    api_key = "AIzaSyBajU_qG7gFNChSwkidFZGrMCPbuelwlFo"
+    api_key = "Geminni 3.1 pro preview key"
 
     if not api_key:
         try:
-            api_key = "AIzaSyBajU_qG7gFNChSwkidFZGrMCPbuelwlFo"
+            api_key = "Geminni 3.1 pro preview key"
         except:
             api_key = None
 
