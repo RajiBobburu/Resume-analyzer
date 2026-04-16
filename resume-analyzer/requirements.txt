@@ -1,0 +1,7 @@
+streamlit
+google-genai
+pdfplumber
+docx2txt
+requests
+beautifulsoup4
+reportlab
